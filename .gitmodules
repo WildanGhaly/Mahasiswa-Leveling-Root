@@ -1,0 +1,15 @@
+[submodule "Mahasiswa-Leveling-SPA"]
+	path = Mahasiswa-Leveling-SPA
+	url = https://github.com/WildanGhaly/Mahasiswa-Leveling-SPA.git
+[submodule "Mahasiswa-Leveling-REST"]
+	path = Mahasiswa-Leveling-REST
+	url = https://github.com/WildanGhaly/Mahasiswa-Leveling-REST.git
+[submodule "Mahasiswa-Leveling-SOAP"]
+	path = Mahasiswa-Leveling-SOAP
+	url = https://github.com/WildanGhaly/Mahasiswa-Leveling-SOAP.git
+[submodule "Mahasiswa-Leveling-Monolith"]
+	path = Mahasiswa-Leveling-Monolith
+	url = https://github.com/WildanGhaly/Mahasiswa-Leveling-Monolith.git
+[submodule "Mahasiswa-Leveling-Config"]
+	path = Mahasiswa-Leveling-Config
+	url = https://github.com/WildanGhaly/Mahasiswa-Leveling-Config.git
